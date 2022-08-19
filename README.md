@@ -1,4 +1,4 @@
-## Oiii eu sou a Sebastião Costa Maia!
+## Oiii, eu sou a Sebastião Costa Maia!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
